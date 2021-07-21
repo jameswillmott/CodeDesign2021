@@ -8,4 +8,5 @@ public:
 
 	//Subtracts float b from float a.
 	static float Subtract(float a, float b);
+
 };
